@@ -1,12 +1,8 @@
 # spring-security-jwt-guide
 
-[English version](https://github.com/Snailclimb/spring-security-jwt-guide/blob/master/README-ENGLISH.md)
-
-**如果国内访问缓慢的话，可以通过码云查看：** https://gitee.com/SnailClimb/spring-security-jwt-guide 。
-
 ## 相关文档
 
-- [JWT 优缺点分析以及常见问题解决方案](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/authority-certification/JWT-advantages-and-disadvantages.md)
+- [JWT 优缺点分析以及常见问题解决方案](https://baijiahao.baidu.com/builder/preview/s?id=1648161296317978105)
 - [项目讲解](./docs/比较重要的类的讲解.md)
 
 ## 介绍
@@ -21,7 +17,7 @@
 
 ## 下载配置
 
-1. git clone https://github.com/Snailclimb/spring-security-jwt-guide.git
+1. git clone https://github.com/fleapx/spring-security-jwt-guide.git
 2. 打开项目并且等待 Maven 下载好相关依赖。建议使用 Intellij IDEA 打开，并确保你的 Intellij IDEA 下载了 lombok 插件。
 3. 修改 `application.properties` 将数据库连接信息改成你自己的。
 4. 运行项目（相关数据表会被自动创建，不了解的看一下 JPA）
